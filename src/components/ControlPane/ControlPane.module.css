@@ -10,6 +10,10 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  overflow-x: scroll;
+  height: 120px;
+  overflow-y: hidden;
+  white-space: nowrap;
 }
 
 .title {
